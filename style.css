@@ -1,0 +1,17 @@
+main {
+    max-width: 1000px;
+    border: 1px solid;
+    margin: 1% auto;
+    padding: 5%;
+}
+
+button {
+    border-radius: none;
+    margin-top: 10px;
+}
+
+#display-div {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
